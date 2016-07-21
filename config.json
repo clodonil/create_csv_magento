@@ -1,7 +1,0 @@
-json_file=csv-magento.json
-planilha_name=MP-LISTA-FINAL
-db_ip=127.0.0.1
-db_user=root
-db_password=medparc
-db_name=wordpress
-file_retorno=Download.csv
